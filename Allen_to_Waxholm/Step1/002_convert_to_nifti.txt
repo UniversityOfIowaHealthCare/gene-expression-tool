@@ -1,0 +1,8 @@
+## Convert gene expression format to NIFTI Space
+# Step1 folder contains: toolbox_nifti and mni.nii
+
+1. Open Matlab
+2. Add toolbox_matlab_nifti in the path
+3. Insure, the desired gene expression map i.e. energy.raw in the current working directory. 
+4. Insure, mni.nii is also in the current working directory. 
+3. Run gene_in_nifti.m 

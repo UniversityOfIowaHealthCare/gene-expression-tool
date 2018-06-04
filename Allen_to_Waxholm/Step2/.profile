@@ -1,0 +1,2 @@
+export PATH=$PATH:$HOME/abin
+export DYLD_FALLBACK_LIBRARY_PATH=$HOME/abin

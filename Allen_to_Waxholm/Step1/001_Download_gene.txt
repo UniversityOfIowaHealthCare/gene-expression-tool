@@ -1,0 +1,30 @@
+# Download gene expression maps from Allen Database
+
+http://mouse.brain-map.org/
+# search gene here
+
+Once you know the gene expression ID, you can download by using the ID: 
+
+http://api.brain-map.org/grid_data/download/$gene_id
+
+
+Example as follows:
+------------------- 
+
+http://api.brain-map.org/grid_data/download/71488716
+#KCTD13
+
+http://api.brain-map.org/grid_data/download/357
+#DRD2
+
+http://api.brain-map.org/grid_data/download/32576
+#MAPK3
+
+http://api.brain-map.org/grid_data/download/72081744
+#TAOK2
+
+http://api.brain-map.org/grid_data/download/67
+#ARP2 coronal
+
+http://api.brain-map.org/grid_data/download/69514702
+#ARP3 Sagital

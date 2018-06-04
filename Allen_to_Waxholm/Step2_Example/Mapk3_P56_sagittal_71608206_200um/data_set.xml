@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section-data-set>
+  <blue-channel nil="true"/>
+  <delegate>false</delegate>
+  <expression>true</expression>
+  <failed>false</failed>
+  <failed-facet>734881840</failed-facet>
+  <green-channel nil="true"/>
+  <id>71608206</id>
+  <name nil="true"/>
+  <qc-date>2009-05-02T22:57:57Z</qc-date>
+  <red-channel nil="true"/>
+  <reference-space-id>10</reference-space-id>
+  <rnaseq-design-id nil="true"/>
+  <section-thickness>25.0</section-thickness>
+  <specimen-id>70803455</specimen-id>
+  <sphinx-id>84</sphinx-id>
+  <storage-directory>/external/aibssan/production32/prod335/image_series_71608206/</storage-directory>
+  <weight>5270</weight>
+  <products>
+    <product>
+      <abbreviation>Mouse</abbreviation>
+      <description>Genome-wide, high-resolution ISH data detailing gene expression throughout the adult mouse brain.</description>
+      <id type="integer">1</id>
+      <name>Mouse Brain</name>
+      <product-name-facet type="integer">2757464828</product-name-facet>
+      <resource>Allen Mouse Brain Atlas</resource>
+      <species>Mouse</species>
+      <species-name-facet type="integer">1861523945</species-name-facet>
+      <tags nil="true"/>
+    </product>
+  </products>
+  <specimen>
+    <donor-id type="integer">6405</donor-id>
+    <ephys-result-id type="integer" nil="true"/>
+    <external-specimen-name nil="true"/>
+    <failed-facet type="integer">734881840</failed-facet>
+    <hemisphere>(none)</hemisphere>
+    <id type="integer">70803455</id>
+    <is-cell-specimen type="boolean" nil="true"/>
+    <is-ish type="boolean">false</is-ish>
+    <name>05-2604</name>
+    <parent-id type="integer" nil="true"/>
+    <parent-x-coord type="integer" nil="true"/>
+    <parent-y-coord type="integer" nil="true"/>
+    <parent-z-coord type="integer" nil="true"/>
+    <rna-integrity-number type="float" nil="true"/>
+    <specimen-id-path>/70803455/</specimen-id-path>
+    <sphinx-id type="integer">15284</sphinx-id>
+    <structure-id type="integer" nil="true"/>
+    <tissue-ph type="float" nil="true"/>
+    <weight type="integer">9000</weight>
+    <donor>
+      <age-id type="integer">15</age-id>
+      <chemotherapy nil="true"/>
+      <condition-description nil="true"/>
+      <donor-condition-description-facet type="integer" nil="true"/>
+      <donor-race-only-facet type="integer" nil="true"/>
+      <donor-sex-facet type="integer">4122955671</donor-sex-facet>
+      <donor-strain-facet type="integer">4276187917</donor-strain-facet>
+      <donor-strain-only-facet type="integer">4276187917</donor-strain-only-facet>
+      <egfr-amplification nil="true"/>
+      <extent-of-resection nil="true"/>
+      <external-donor-name nil="true"/>
+      <handedness>unknown</handedness>
+      <id type="integer">6405</id>
+      <initial-kps nil="true"/>
+      <mgmt-ihc type="integer" nil="true"/>
+      <mgmt-methylation nil="true"/>
+      <molecular-subtype nil="true"/>
+      <multifocal nil="true"/>
+      <name>05-2604</name>
+      <organism-id type="integer">2</organism-id>
+      <pmi type="float">0.0</pmi>
+      <primary-tissue-source>AIBS</primary-tissue-source>
+      <pten-deletion nil="true"/>
+      <race-only nil="true"/>
+      <radiation-therapy nil="true"/>
+      <recurrence-by-six-months nil="true"/>
+      <sex>M</sex>
+      <sex-full-name>Male</sex-full-name>
+      <sleep-state nil="true"/>
+      <smoker nil="true"/>
+      <strain>C57BL/6J</strain>
+      <strain-only>C57BL/6J</strain-only>
+      <survival-days type="integer" nil="true"/>
+      <tags>05-2604 unknown</tags>
+      <theiler-stage nil="true"/>
+      <time-to-progression-or-recurrence nil="true"/>
+      <transgenic-mouse-id type="integer" nil="true"/>
+      <tumor-status nil="true"/>
+      <weight-grams type="float" nil="true"/>
+    </donor>
+  </specimen>
+  <alignment3d>
+    <id type="integer">343346515</id>
+    <trv>0.942712,-0.0143451,0.0138708,0.0137673,0.880764,-0.0238502,-0.0140106,0.0278455,0.943565,1097.0,2168.5,-1530.94</trv>
+    <tvr>1.06029,0.0177476,-0.0151381,-0.0161342,1.1342,0.028906,0.0162199,-0.0332078,1.05873,-1224.79,-2397.57,1675.08</tvr>
+  </alignment3d>
+  <section-images>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206014338/0206014338_5_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6241</height>
+      <id type="integer">71432567</id>
+      <image-height type="integer">6241</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8353</image-width>
+      <lims1-id type="integer">71432567</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206014338/Mapk3_5_0206014338_A.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">5</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8353</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346677</id>
+        <tvs>0.953008,0.0231448,-0.0231448,0.953008,-4169.23,-2230.43</tvs>
+        <tsv>1.04869,-0.0254685,0.0254685,1.04869,4315.42,2445.22</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206014338/0206014338_13_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6609</height>
+      <id type="integer">71432569</id>
+      <image-height type="integer">6609</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">8961</image-width>
+      <lims1-id type="integer">71432569</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206014338/Mapk3_13_0206014338_B.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">13</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">8961</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346679</id>
+        <tvs>0.953226,0.010935,-0.010935,0.953226,-3632.2,-2366.72</tvs>
+        <tsv>1.04893,-0.0120329,0.0120329,1.04893,3781.45,2526.24</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206014338/0206014338_21_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6369</height>
+      <id type="integer">71432571</id>
+      <image-height type="integer">6369</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9825</image-width>
+      <lims1-id type="integer">71432571</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206014338/Mapk3_21_0206014338_C.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">21</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9825</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346681</id>
+        <tvs>0.953052,0.0212422,-0.0212422,0.953052,-3218.26,-2223.1</tvs>
+        <tsv>1.04874,-0.0233749,0.0233749,1.04874,3323.15,2406.68</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206014338/0206014338_29_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6577</height>
+      <id type="integer">71432573</id>
+      <image-height type="integer">6577</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">9921</image-width>
+      <lims1-id type="integer">71432573</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206014338/Mapk3_29_0206014338_D.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">29</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">9921</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346683</id>
+        <tvs>0.952742,-0.0322734,0.0322734,0.952742,-2813.98,-2660.12</tvs>
+        <tsv>1.0484,0.0355136,-0.0355136,1.0484,3044.65,2688.93</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206021933/0206021933_37_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6721</height>
+      <id type="integer">71432577</id>
+      <image-height type="integer">6721</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">15409</image-width>
+      <lims1-id type="integer">71432577</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206021933/Mapk3_37_0206021933_A.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">37</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">15409</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346685</id>
+        <tvs>0.953098,-0.0190803,0.0190803,0.953098,2552.47,-2682.18</tvs>
+        <tsv>1.04879,0.020996,-0.020996,1.04879,-2620.69,2866.63</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206021933/0206021933_45_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6561</height>
+      <id type="integer">71432579</id>
+      <image-height type="integer">6561</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10289</image-width>
+      <lims1-id type="integer">71432579</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206021933/Mapk3_45_0206021933_B.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">45</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10289</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346687</id>
+        <tvs>0.952522,-0.0382282,0.0382282,0.952522,-2669.4,-2394.52</tvs>
+        <tsv>1.04816,0.0420664,-0.0420664,1.04816,2898.68,2397.54</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206021933/0206021933_53_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6705</height>
+      <id type="integer">71432581</id>
+      <image-height type="integer">6705</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">10849</image-width>
+      <lims1-id type="integer">71432581</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206021933/Mapk3_53_0206021933_C.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">53</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">10849</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346689</id>
+        <tvs>0.953288,-0.00111585,0.00111585,0.953288,-2278.36,-2188.2</tvs>
+        <tsv>1.049,0.00122788,-0.00122788,1.049,2392.69,2292.62</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206021933/0206021933_61_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7201</height>
+      <id type="integer">71432583</id>
+      <image-height type="integer">7201</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">11505</image-width>
+      <lims1-id type="integer">71432583</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206021933/Mapk3_61_0206021933_D.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">61</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">11505</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346691</id>
+        <tvs>0.953267,-0.00639875,0.00639875,0.953267,-2035.02,-1873.06</tvs>
+        <tsv>1.04898,0.00704119,-0.00704119,1.04898,2147.88,1950.46</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206034011/0206034011_69_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6609</height>
+      <id type="integer">71432587</id>
+      <image-height type="integer">6609</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">11569</image-width>
+      <lims1-id type="integer">71432587</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206034011/Mapk3_69_0206034011_A.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">69</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">11569</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346693</id>
+        <tvs>0.953278,0.00456069,-0.00456069,0.953278,-1954.81,-2225.38</tvs>
+        <tsv>1.04899,-0.00501859,0.00501859,1.04899,2039.4,2344.21</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206034011/0206034011_77_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7249</height>
+      <id type="integer">71432589</id>
+      <image-height type="integer">7249</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">13233</image-width>
+      <lims1-id type="integer">71432589</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206034011/Mapk3_77_0206034011_B.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">77</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">13233</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346695</id>
+        <tvs>0.953283,0.00328051,-0.00328051,0.953283,-1079.53,-1729.63</tvs>
+        <tsv>1.04899,-0.00360988,0.00360988,1.04899,1126.18,1818.27</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206034011/0206034011_85_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7217</height>
+      <id type="integer">71432591</id>
+      <image-height type="integer">7217</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14225</image-width>
+      <lims1-id type="integer">71432591</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206034011/Mapk3_85_0206034011_C.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">85</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14225</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346697</id>
+        <tvs>0.952744,0.0322244,-0.0322244,0.952744,-625.533,-1559.81</tvs>
+        <tsv>1.0484,-0.0354597,0.0354597,1.0484,600.498,1657.49</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206034011/0206034011_93_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7249</height>
+      <id type="integer">71432593</id>
+      <image-height type="integer">7249</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">13761</image-width>
+      <lims1-id type="integer">71432593</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206034011/Mapk3_93_0206034011_D.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">93</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">13761</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346699</id>
+        <tvs>0.953277,0.004687,-0.004687,0.953277,-625.863,-1674.16</tvs>
+        <tsv>1.04899,-0.00515758,0.00515758,1.04899,647.887,1759.4</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206044394/0206044394_101_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7585</height>
+      <id type="integer">71432597</id>
+      <image-height type="integer">7585</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14529</image-width>
+      <lims1-id type="integer">71432597</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206044394/Mapk3_101_0206044394_A.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">101</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14529</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346701</id>
+        <tvs>0.953271,0.00578794,-0.00578794,0.953271,-460.349,-1532.74</tvs>
+        <tsv>1.04898,-0.00636905,0.00636905,1.04898,473.135,1610.75</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206044394/0206044394_109_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7489</height>
+      <id type="integer">71432599</id>
+      <image-height type="integer">7489</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14049</image-width>
+      <lims1-id type="integer">71432599</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206044394/Mapk3_109_0206044394_B.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">109</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14049</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346703</id>
+        <tvs>0.953124,0.0177516,-0.0177516,0.953124,-612.379,-1491.72</tvs>
+        <tsv>1.04882,-0.0195338,0.0195338,1.04882,613.135,1576.5</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206044394/0206044394_117_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7441</height>
+      <id type="integer">71432601</id>
+      <image-height type="integer">7441</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14673</image-width>
+      <lims1-id type="integer">71432601</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206044394/Mapk3_117_0206044394_C.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">117</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14673</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346705</id>
+        <tvs>0.953152,0.0161329,-0.0161329,0.953152,-543.923,-1494.93</tvs>
+        <tsv>1.04885,-0.0177526,0.0177526,1.04885,543.955,1577.62</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206044394/0206044394_125_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7441</height>
+      <id type="integer">71432603</id>
+      <image-height type="integer">7441</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14721</image-width>
+      <lims1-id type="integer">71432603</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206044394/Mapk3_125_0206044394_D.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">125</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14721</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346707</id>
+        <tvs>0.953094,-0.0192516,0.0192516,0.953094,-225.442,-2111.36</tvs>
+        <tsv>1.04879,0.0211845,-0.0211845,1.04879,281.169,2209.59</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206054415/0206054415_133_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7393</height>
+      <id type="integer">71432607</id>
+      <image-height type="integer">7393</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14785</image-width>
+      <lims1-id type="integer">71432607</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206054415/Mapk3_133_0206054415_A.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">133</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14785</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346709</id>
+        <tvs>0.953247,0.00890431,-0.00890431,0.953247,-448.244,-1704.56</tvs>
+        <tsv>1.04895,-0.00979831,0.00979831,1.04895,453.486,1792.39</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206054415/0206054415_141_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">6721</height>
+      <id type="integer">71432609</id>
+      <image-height type="integer">6721</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14657</image-width>
+      <lims1-id type="integer">71432609</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206054415/Mapk3_141_0206054415_B.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">141</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14657</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346711</id>
+        <tvs>0.953289,0.000646284,-0.000646284,0.953289,-342.27,-2181.14</tvs>
+        <tsv>1.049,-0.000711172,0.000711172,1.049,357.49,2288.26</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206054415/0206054415_149_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7329</height>
+      <id type="integer">71432611</id>
+      <image-height type="integer">7329</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14561</image-width>
+      <lims1-id type="integer">71432611</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206054415/Mapk3_149_0206054415_C.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">149</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14561</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346713</id>
+        <tvs>0.952655,0.0347577,-0.0347577,0.952655,-296.544,-1427.5</tvs>
+        <tsv>1.0483,-0.0382474,0.0382474,1.0483,256.27,1507.79</tsv>
+      </alignment2d>
+    </section-image>
+    <section-image>
+      <annotated type="boolean">false</annotated>
+      <axes nil="true"/>
+      <bits-per-component type="integer">8</bits-per-component>
+      <data-set-id type="integer">71608206</data-set-id>
+      <expression-path>/external/aibssan/production32/prod192/0206054415/0206054415_157_expression.aff</expression-path>
+      <failed type="boolean">false</failed>
+      <height type="integer">7297</height>
+      <id type="integer">71432613</id>
+      <image-height type="integer">7297</image-height>
+      <image-type>Primary</image-type>
+      <image-width type="integer">14161</image-width>
+      <lims1-id type="integer">71432613</lims1-id>
+      <number-of-components type="integer">3</number-of-components>
+      <path>/external/aibssan/production9/Mapk3_05-2604_20899/zoomify/primary/0206054415/Mapk3_157_0206054415_D.aff</path>
+      <projection-function nil="true"/>
+      <resolution type="float">1.049</resolution>
+      <section-number type="integer">157</section-number>
+      <specimen-id type="integer" nil="true"/>
+      <structure-id type="integer" nil="true"/>
+      <tier-count type="integer">7</tier-count>
+      <width type="integer">14161</width>
+      <x type="integer">0</x>
+      <y type="integer">0</y>
+      <alignment2d>
+        <id type="integer">343346715</id>
+        <tvs>0.953163,0.0154876,-0.0154876,0.953163,-453.827,-1324.65</tvs>
+        <tsv>1.04886,-0.0170425,0.0170425,1.04886,453.426,1397.11</tsv>
+      </alignment2d>
+    </section-image>
+  </section-images>
+  <plane_of_section>sagittal</plane_of_section>
+  <age>P56</age>
+</section-data-set>
