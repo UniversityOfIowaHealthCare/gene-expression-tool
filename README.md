@@ -50,8 +50,10 @@ Support
 -------
 
 If you are having issues, please let us know.
-Prof. Dr. med. Thomas Nickl-Jockschat: tnickl-jockschat@ukaachen.de
+Prof. Dr. med. Thomas Nickl-Jockschat: thomas-nickl-jockschat@uiowa.edu
 Vinod Kumar: mail.vinod@yahoo.com
+
+Please use the following reference when utilizing our gene expression tool: https://www.ncbi.nlm.nih.gov/pubmed/29844452
 
 License
 -------
